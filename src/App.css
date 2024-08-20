@@ -23,6 +23,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.akhil-mode{
+  color: red;
+  background-color: blanchedalmond;
+  padding: 0.8rem;
+}
 
 .App-link {
   color: #61dafb;
